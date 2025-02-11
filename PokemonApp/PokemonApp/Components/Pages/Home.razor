@@ -1,0 +1,37 @@
+﻿@page "/"
+@using PokemonApp.Models
+@using PokemonApp.Services
+
+@inject PokemonService PokemonService
+<PageTitle>Poke Api Trial!!</PageTitle>
+
+<h1>Catch'em All!!</h1>
+
+Welcome to a Blazor web app Test 
+
+
+
+<h3>Pokémons</h3>
+
+@if (pokemons == null)
+{
+    <p>Cargando...</p>
+}
+else
+{
+    <ul>
+        @foreach (var pokemon in pokemons)
+        {
+            <li>@pokemon.Name - <a href="@pokemon.Url" target="_blank">Ver más</a></li>
+        }
+    </ul>
+}
+
+@code {
+    private List<Pokemon> pokemons;
+
+    protected override async Task OnInitializedAsync()
+    {
+        pokemons = (await PokemonService.GetPokemonsAsync(20))?.Results;
+    }
+}
