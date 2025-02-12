@@ -1,6 +1,7 @@
 using PokemonApp.Client.Pages;
 using PokemonApp.Components;
 using PokemonApp.Services;
+using YourNamespace.Services;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +11,7 @@ builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents()
     .AddInteractiveWebAssemblyComponents();
 builder.Services.AddSingleton<PokemonService>();
+builder.Services.AddScoped<PokemonDetailsService>();
 
 
 var app = builder.Build();

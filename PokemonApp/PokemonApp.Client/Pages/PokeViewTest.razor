@@ -1,7 +1,28 @@
-﻿@page "/poke"
-<h3>PokeViewTest</h3>
-<h1>YO thats sick</h1>
+﻿@page "/poke/"
+@using PokemonApp.Client.PokeDetailService
+@using YourNamespace.Services
+@inject PokemonDetailsService PokemonDetailsService
+
+<h3>Detalles del Pokémon</h3>
+
+@if (pokemonDetails == null)
+{
+    <p>Cargando...</p>
+}
+else
+{
+    <h4>@pokemonDetails.Name</h4>
+    <p>Experiencia base: @pokemonDetails.BaseExperience</p>
+    <img src="@pokemonDetails.Sprites.FrontDefault" alt="@pokemonDetails.Name" />
+}
 
 @code {
-    
+    [Parameter] public int Id { get; set; }
+
+    private PokemonDetails pokemonDetails;
+
+    protected override async Task OnInitializedAsync()
+    {
+        pokemonDetails = await PokemonDetailsService.GetPokemonDetailsAsync(Id);
+    }
 }
