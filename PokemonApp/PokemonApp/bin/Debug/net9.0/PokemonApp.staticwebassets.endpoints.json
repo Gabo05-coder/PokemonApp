@@ -9605,8 +9605,8 @@
       ]
     },
     {
-      "Route": "_framework/PokemonApp.Client.99hwb4h6dg.wasm",
-      "AssetFile": "_framework/PokemonApp.Client.99hwb4h6dg.wasm",
+      "Route": "_framework/PokemonApp.Client.fjlpo93gcp.pdb",
+      "AssetFile": "_framework/PokemonApp.Client.fjlpo93gcp.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9619,44 +9619,44 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14613"
+          "Value": "19616"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4=\""
+          "Value": "\"tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:42 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:39 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "99hwb4h6dg"
+          "Value": "fjlpo93gcp"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4="
+          "Value": "sha256-tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70="
         },
         {
           "Name": "label",
-          "Value": "_framework/PokemonApp.Client.wasm"
+          "Value": "_framework/PokemonApp.Client.pdb"
         }
       ]
     },
     {
-      "Route": "_framework/PokemonApp.Client.99hwb4h6dg.wasm",
-      "AssetFile": "_framework/PokemonApp.Client.99hwb4h6dg.wasm.gz",
+      "Route": "_framework/PokemonApp.Client.fjlpo93gcp.pdb",
+      "AssetFile": "_framework/PokemonApp.Client.fjlpo93gcp.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000143328078"
+          "Quality": "0.000077321580"
         }
       ],
       "ResponseHeaders": [
@@ -9674,23 +9674,23 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6976"
+          "Value": "12932"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"I/xa7BqJxphhcU/HgRiFtfHbHljnHf/2UdGYIAyRC3s=\""
+          "Value": "\"1NDJhVt1yJ3iXgYLymk4/RU4s5uMPQ9gTDKDuANi0l4=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4=\""
+          "Value": "W/\"tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
         },
         {
           "Name": "Vary",
@@ -9700,21 +9700,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "99hwb4h6dg"
+          "Value": "fjlpo93gcp"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4="
+          "Value": "sha256-tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70="
         },
         {
           "Name": "label",
-          "Value": "_framework/PokemonApp.Client.wasm"
+          "Value": "_framework/PokemonApp.Client.pdb"
         }
       ]
     },
     {
-      "Route": "_framework/PokemonApp.Client.99hwb4h6dg.wasm.gz",
-      "AssetFile": "_framework/PokemonApp.Client.99hwb4h6dg.wasm.gz",
+      "Route": "_framework/PokemonApp.Client.fjlpo93gcp.pdb.gz",
+      "AssetFile": "_framework/PokemonApp.Client.fjlpo93gcp.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9731,19 +9731,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6976"
+          "Value": "12932"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"I/xa7BqJxphhcU/HgRiFtfHbHljnHf/2UdGYIAyRC3s=\""
+          "Value": "\"1NDJhVt1yJ3iXgYLymk4/RU4s5uMPQ9gTDKDuANi0l4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
         },
         {
           "Name": "Vary",
@@ -9753,11 +9753,172 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "99hwb4h6dg"
+          "Value": "fjlpo93gcp"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-I/xa7BqJxphhcU/HgRiFtfHbHljnHf/2UdGYIAyRC3s="
+          "Value": "sha256-1NDJhVt1yJ3iXgYLymk4/RU4s5uMPQ9gTDKDuANi0l4="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/PokemonApp.Client.pdb.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PokemonApp.Client.nxn2li9rbg.wasm",
+      "AssetFile": "_framework/PokemonApp.Client.nxn2li9rbg.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 05:10:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nxn2li9rbg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/PokemonApp.Client.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PokemonApp.Client.nxn2li9rbg.wasm",
+      "AssetFile": "_framework/PokemonApp.Client.nxn2li9rbg.wasm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000146262981"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8JlWgYAZ5uupR1ifEGkFaBhVkZPxokhCufIujdu5C/U=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nxn2li9rbg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/PokemonApp.Client.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PokemonApp.Client.nxn2li9rbg.wasm.gz",
+      "AssetFile": "_framework/PokemonApp.Client.nxn2li9rbg.wasm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8JlWgYAZ5uupR1ifEGkFaBhVkZPxokhCufIujdu5C/U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nxn2li9rbg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8JlWgYAZ5uupR1ifEGkFaBhVkZPxokhCufIujdu5C/U="
         },
         {
           "Name": "label",
@@ -9767,7 +9928,7 @@
     },
     {
       "Route": "_framework/PokemonApp.Client.pdb",
-      "AssetFile": "_framework/PokemonApp.Client.ydn1urvdbv.pdb",
+      "AssetFile": "_framework/PokemonApp.Client.fjlpo93gcp.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9780,7 +9941,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19700"
+          "Value": "19616"
         },
         {
           "Name": "Content-Type",
@@ -9788,28 +9949,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k=\""
+          "Value": "\"tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:42 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:39 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k="
+          "Value": "sha256-tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70="
         }
       ]
     },
     {
       "Route": "_framework/PokemonApp.Client.pdb",
-      "AssetFile": "_framework/PokemonApp.Client.ydn1urvdbv.pdb.gz",
+      "AssetFile": "_framework/PokemonApp.Client.fjlpo93gcp.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000076810815"
+          "Quality": "0.000077321580"
         }
       ],
       "ResponseHeaders": [
@@ -9827,7 +9988,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13018"
+          "Value": "12932"
         },
         {
           "Name": "Content-Type",
@@ -9835,15 +9996,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"d5HLvx67ECFZzWQga+1WaPegVNSa8FF/uN5vO5fUZOY=\""
+          "Value": "\"1NDJhVt1yJ3iXgYLymk4/RU4s5uMPQ9gTDKDuANi0l4=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k=\""
+          "Value": "W/\"tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
         },
         {
           "Name": "Vary",
@@ -9853,13 +10014,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k="
+          "Value": "sha256-tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70="
         }
       ]
     },
     {
       "Route": "_framework/PokemonApp.Client.pdb.gz",
-      "AssetFile": "_framework/PokemonApp.Client.ydn1urvdbv.pdb.gz",
+      "AssetFile": "_framework/PokemonApp.Client.fjlpo93gcp.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9876,7 +10037,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13018"
+          "Value": "12932"
         },
         {
           "Name": "Content-Type",
@@ -9884,11 +10045,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"d5HLvx67ECFZzWQga+1WaPegVNSa8FF/uN5vO5fUZOY=\""
+          "Value": "\"1NDJhVt1yJ3iXgYLymk4/RU4s5uMPQ9gTDKDuANi0l4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
         },
         {
           "Name": "Vary",
@@ -9898,13 +10059,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-d5HLvx67ECFZzWQga+1WaPegVNSa8FF/uN5vO5fUZOY="
+          "Value": "sha256-1NDJhVt1yJ3iXgYLymk4/RU4s5uMPQ9gTDKDuANi0l4="
         }
       ]
     },
     {
       "Route": "_framework/PokemonApp.Client.wasm",
-      "AssetFile": "_framework/PokemonApp.Client.99hwb4h6dg.wasm",
+      "AssetFile": "_framework/PokemonApp.Client.nxn2li9rbg.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9917,7 +10078,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14613"
+          "Value": "14101"
         },
         {
           "Name": "Content-Type",
@@ -9925,28 +10086,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4=\""
+          "Value": "\"VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:42 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:39 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4="
+          "Value": "sha256-VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk="
         }
       ]
     },
     {
       "Route": "_framework/PokemonApp.Client.wasm",
-      "AssetFile": "_framework/PokemonApp.Client.99hwb4h6dg.wasm.gz",
+      "AssetFile": "_framework/PokemonApp.Client.nxn2li9rbg.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000143328078"
+          "Quality": "0.000146262981"
         }
       ],
       "ResponseHeaders": [
@@ -9964,7 +10125,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6976"
+          "Value": "6836"
         },
         {
           "Name": "Content-Type",
@@ -9972,15 +10133,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"I/xa7BqJxphhcU/HgRiFtfHbHljnHf/2UdGYIAyRC3s=\""
+          "Value": "\"8JlWgYAZ5uupR1ifEGkFaBhVkZPxokhCufIujdu5C/U=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4=\""
+          "Value": "W/\"VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
         },
         {
           "Name": "Vary",
@@ -9990,13 +10151,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4="
+          "Value": "sha256-VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk="
         }
       ]
     },
     {
       "Route": "_framework/PokemonApp.Client.wasm.gz",
-      "AssetFile": "_framework/PokemonApp.Client.99hwb4h6dg.wasm.gz",
+      "AssetFile": "_framework/PokemonApp.Client.nxn2li9rbg.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10013,7 +10174,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6976"
+          "Value": "6836"
         },
         {
           "Name": "Content-Type",
@@ -10021,11 +10182,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"I/xa7BqJxphhcU/HgRiFtfHbHljnHf/2UdGYIAyRC3s=\""
+          "Value": "\"8JlWgYAZ5uupR1ifEGkFaBhVkZPxokhCufIujdu5C/U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
         },
         {
           "Name": "Vary",
@@ -10035,168 +10196,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-I/xa7BqJxphhcU/HgRiFtfHbHljnHf/2UdGYIAyRC3s="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PokemonApp.Client.ydn1urvdbv.pdb",
-      "AssetFile": "_framework/PokemonApp.Client.ydn1urvdbv.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19700"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:42 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ydn1urvdbv"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/PokemonApp.Client.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PokemonApp.Client.ydn1urvdbv.pdb",
-      "AssetFile": "_framework/PokemonApp.Client.ydn1urvdbv.pdb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000076810815"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13018"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d5HLvx67ECFZzWQga+1WaPegVNSa8FF/uN5vO5fUZOY=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ydn1urvdbv"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/PokemonApp.Client.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PokemonApp.Client.ydn1urvdbv.pdb.gz",
-      "AssetFile": "_framework/PokemonApp.Client.ydn1urvdbv.pdb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13018"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d5HLvx67ECFZzWQga+1WaPegVNSa8FF/uN5vO5fUZOY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ydn1urvdbv"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-d5HLvx67ECFZzWQga+1WaPegVNSa8FF/uN5vO5fUZOY="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/PokemonApp.Client.pdb.gz"
+          "Value": "sha256-8JlWgYAZ5uupR1ifEGkFaBhVkZPxokhCufIujdu5C/U="
         }
       ]
     },
@@ -58797,17 +58797,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0NYjzm8ksGNuoXN2E2k0Kob+8bezsrXBLtXMRDApYO4=\""
+          "Value": "\"vWBInWHJPbo2S4f92A4/o+DXTYek0Zryoi2jwrdy3xI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0NYjzm8ksGNuoXN2E2k0Kob+8bezsrXBLtXMRDApYO4="
+          "Value": "sha256-vWBInWHJPbo2S4f92A4/o+DXTYek0Zryoi2jwrdy3xI="
         }
       ]
     },
@@ -58818,7 +58818,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000079592486"
+          "Quality": "0.000079598822"
         }
       ],
       "ResponseHeaders": [
@@ -58836,7 +58836,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12563"
+          "Value": "12562"
         },
         {
           "Name": "Content-Type",
@@ -58844,15 +58844,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yyXkm7AIKCrfJaL2OD1h1eYpyX6PSxunxBQ9eAK+MUk=\""
+          "Value": "\"4YrK95e3a+/bM2RbErrh9/oGxexrJPAjI5+u3DECDdE=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0NYjzm8ksGNuoXN2E2k0Kob+8bezsrXBLtXMRDApYO4=\""
+          "Value": "W/\"vWBInWHJPbo2S4f92A4/o+DXTYek0Zryoi2jwrdy3xI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:56:42 GMT"
+          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
         },
         {
           "Name": "Vary",
@@ -58862,7 +58862,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0NYjzm8ksGNuoXN2E2k0Kob+8bezsrXBLtXMRDApYO4="
+          "Value": "sha256-vWBInWHJPbo2S4f92A4/o+DXTYek0Zryoi2jwrdy3xI="
         }
       ]
     },
@@ -58885,7 +58885,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12563"
+          "Value": "12562"
         },
         {
           "Name": "Content-Type",
@@ -58893,11 +58893,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yyXkm7AIKCrfJaL2OD1h1eYpyX6PSxunxBQ9eAK+MUk=\""
+          "Value": "\"4YrK95e3a+/bM2RbErrh9/oGxexrJPAjI5+u3DECDdE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:56:42 GMT"
+          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
         },
         {
           "Name": "Vary",
@@ -58907,7 +58907,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yyXkm7AIKCrfJaL2OD1h1eYpyX6PSxunxBQ9eAK+MUk="
+          "Value": "sha256-4YrK95e3a+/bM2RbErrh9/oGxexrJPAjI5+u3DECDdE="
         }
       ]
     },

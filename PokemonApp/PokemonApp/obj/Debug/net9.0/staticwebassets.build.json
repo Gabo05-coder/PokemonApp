@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0ZFnTlY423t8D+nkfv7YXxoS/ZG1p6piv62hFSOgOhs=",
+  "Hash": "qd4p/Axl6ihdgINA5vcSLjn4V3MQCQrrSWB21mBB3Uk=",
   "Source": "PokemonApp",
   "BasePath": "_content/PokemonApp",
   "Mode": "Default",
@@ -92,8 +92,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "gwg5mv40mk",
-      "Integrity": "0NYjzm8ksGNuoXN2E2k0Kob+8bezsrXBLtXMRDApYO4=",
+      "Fingerprint": "9d66zyvd9l",
+      "Integrity": "vWBInWHJPbo2S4f92A4/o+DXTYek0Zryoi2jwrdy3xI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -995,8 +995,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "ydn1urvdbv",
-      "Integrity": "poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k=",
+      "Fingerprint": "fjlpo93gcp",
+      "Integrity": "tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/bin/Debug/net9.0/wwwroot/_framework/PokemonApp.Client.pdb"
@@ -1016,8 +1016,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "99hwb4h6dg",
-      "Integrity": "XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4=",
+      "Fingerprint": "nxn2li9rbg",
+      "Integrity": "VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/bin/Debug/net9.0/wwwroot/_framework/PokemonApp.Client.wasm"
@@ -4866,12 +4866,12 @@
       "OriginalItemSpec": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/2qpq3w3yak-xd0pof1l0v.gz"
     },
     {
-      "Identity": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/2r50ex368j-ydn1urvdbv.gz",
+      "Identity": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/2r50ex368j-fjlpo93gcp.gz",
       "SourceId": "PokemonApp.Client",
       "SourceType": "Project",
       "ContentRoot": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/PokemonApp.Client#[.{fingerprint=ydn1urvdbv}]!.pdb.gz",
+      "RelativePath": "_framework/PokemonApp.Client#[.{fingerprint=fjlpo93gcp}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4880,11 +4880,11 @@
       "RelatedAsset": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/bin/Debug/net9.0/wwwroot/_framework/PokemonApp.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "bre3squcoc",
-      "Integrity": "d5HLvx67ECFZzWQga+1WaPegVNSa8FF/uN5vO5fUZOY=",
+      "Fingerprint": "gjz5892gj0",
+      "Integrity": "1NDJhVt1yJ3iXgYLymk4/RU4s5uMPQ9gTDKDuANi0l4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/2r50ex368j-ydn1urvdbv.gz"
+      "OriginalItemSpec": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/2r50ex368j-fjlpo93gcp.gz"
     },
     {
       "Identity": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/2wllfuzv5b-a8lovankol.gz",
@@ -5223,7 +5223,7 @@
       "OriginalItemSpec": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/4ytnxxh94t-e21pxyo7f6.gz"
     },
     {
-      "Identity": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/528323jrnj-gwg5mv40mk.gz",
+      "Identity": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/528323jrnj-9d66zyvd9l.gz",
       "SourceId": "PokemonApp.Client",
       "SourceType": "Project",
       "ContentRoot": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/",
@@ -5237,11 +5237,11 @@
       "RelatedAsset": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "507vtmdmn0",
-      "Integrity": "yyXkm7AIKCrfJaL2OD1h1eYpyX6PSxunxBQ9eAK+MUk=",
+      "Fingerprint": "3jjhgu7h4s",
+      "Integrity": "4YrK95e3a+/bM2RbErrh9/oGxexrJPAjI5+u3DECDdE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/528323jrnj-gwg5mv40mk.gz"
+      "OriginalItemSpec": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/528323jrnj-9d66zyvd9l.gz"
     },
     {
       "Identity": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/5lb9q4qy2g-rt0wj1di9x.gz",
@@ -6777,12 +6777,12 @@
       "OriginalItemSpec": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/hds34jy4zc-lij9csiyuf.gz"
     },
     {
-      "Identity": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/hojo93m5rf-99hwb4h6dg.gz",
+      "Identity": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/hojo93m5rf-nxn2li9rbg.gz",
       "SourceId": "PokemonApp.Client",
       "SourceType": "Project",
       "ContentRoot": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/PokemonApp.Client#[.{fingerprint=99hwb4h6dg}]!.wasm.gz",
+      "RelativePath": "_framework/PokemonApp.Client#[.{fingerprint=nxn2li9rbg}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6791,11 +6791,11 @@
       "RelatedAsset": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/bin/Debug/net9.0/wwwroot/_framework/PokemonApp.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "bihmawj08s",
-      "Integrity": "I/xa7BqJxphhcU/HgRiFtfHbHljnHf/2UdGYIAyRC3s=",
+      "Fingerprint": "432uwwqfeo",
+      "Integrity": "8JlWgYAZ5uupR1ifEGkFaBhVkZPxokhCufIujdu5C/U=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/hojo93m5rf-99hwb4h6dg.gz"
+      "OriginalItemSpec": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/hojo93m5rf-nxn2li9rbg.gz"
     },
     {
       "Identity": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/hr0ur84uqx-b9gojf6ll8.gz",
@@ -11323,28 +11323,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0NYjzm8ksGNuoXN2E2k0Kob+8bezsrXBLtXMRDApYO4=\""
+          "Value": "\"vWBInWHJPbo2S4f92A4/o+DXTYek0Zryoi2jwrdy3xI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0NYjzm8ksGNuoXN2E2k0Kob+8bezsrXBLtXMRDApYO4="
+          "Value": "sha256-vWBInWHJPbo2S4f92A4/o+DXTYek0Zryoi2jwrdy3xI="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/528323jrnj-gwg5mv40mk.gz",
+      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/528323jrnj-9d66zyvd9l.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000079592486"
+          "Quality": "0.000079598822"
         }
       ],
       "ResponseHeaders": [
@@ -11362,15 +11362,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12563"
+          "Value": "12562"
         },
         {
           "Name": "ETag",
-          "Value": "\"yyXkm7AIKCrfJaL2OD1h1eYpyX6PSxunxBQ9eAK+MUk=\""
+          "Value": "\"4YrK95e3a+/bM2RbErrh9/oGxexrJPAjI5+u3DECDdE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:56:42 GMT"
+          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
         },
         {
           "Name": "Vary",
@@ -11382,19 +11382,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0NYjzm8ksGNuoXN2E2k0Kob+8bezsrXBLtXMRDApYO4=\""
+          "Value": "W/\"vWBInWHJPbo2S4f92A4/o+DXTYek0Zryoi2jwrdy3xI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0NYjzm8ksGNuoXN2E2k0Kob+8bezsrXBLtXMRDApYO4="
+          "Value": "sha256-vWBInWHJPbo2S4f92A4/o+DXTYek0Zryoi2jwrdy3xI="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/528323jrnj-gwg5mv40mk.gz",
+      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/528323jrnj-9d66zyvd9l.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11411,7 +11411,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12563"
+          "Value": "12562"
         },
         {
           "Name": "Content-Type",
@@ -11419,11 +11419,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yyXkm7AIKCrfJaL2OD1h1eYpyX6PSxunxBQ9eAK+MUk=\""
+          "Value": "\"4YrK95e3a+/bM2RbErrh9/oGxexrJPAjI5+u3DECDdE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:56:42 GMT"
+          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
         },
         {
           "Name": "Vary",
@@ -11433,7 +11433,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yyXkm7AIKCrfJaL2OD1h1eYpyX6PSxunxBQ9eAK+MUk="
+          "Value": "sha256-4YrK95e3a+/bM2RbErrh9/oGxexrJPAjI5+u3DECDdE="
         }
       ]
     },
@@ -23793,7 +23793,168 @@
       ]
     },
     {
-      "Route": "_framework/PokemonApp.Client.99hwb4h6dg.wasm",
+      "Route": "_framework/PokemonApp.Client.fjlpo93gcp.pdb",
+      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/bin/Debug/net9.0/wwwroot/_framework/PokemonApp.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 05:10:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fjlpo93gcp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/PokemonApp.Client.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PokemonApp.Client.fjlpo93gcp.pdb",
+      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/2r50ex368j-fjlpo93gcp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000077321580"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12932"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1NDJhVt1yJ3iXgYLymk4/RU4s5uMPQ9gTDKDuANi0l4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fjlpo93gcp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/PokemonApp.Client.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PokemonApp.Client.fjlpo93gcp.pdb.gz",
+      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/2r50ex368j-fjlpo93gcp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1NDJhVt1yJ3iXgYLymk4/RU4s5uMPQ9gTDKDuANi0l4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fjlpo93gcp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1NDJhVt1yJ3iXgYLymk4/RU4s5uMPQ9gTDKDuANi0l4="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/PokemonApp.Client.pdb.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PokemonApp.Client.nxn2li9rbg.wasm",
       "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/bin/Debug/net9.0/wwwroot/_framework/PokemonApp.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -23807,7 +23968,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14613"
+          "Value": "14101"
         },
         {
           "Name": "Content-Type",
@@ -23815,21 +23976,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4=\""
+          "Value": "\"VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:42 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:39 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "99hwb4h6dg"
+          "Value": "nxn2li9rbg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4="
+          "Value": "sha256-VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk="
         },
         {
           "Name": "label",
@@ -23838,13 +23999,13 @@
       ]
     },
     {
-      "Route": "_framework/PokemonApp.Client.99hwb4h6dg.wasm",
-      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/hojo93m5rf-99hwb4h6dg.gz",
+      "Route": "_framework/PokemonApp.Client.nxn2li9rbg.wasm",
+      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/hojo93m5rf-nxn2li9rbg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000143328078"
+          "Quality": "0.000146262981"
         }
       ],
       "ResponseHeaders": [
@@ -23862,15 +24023,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6976"
+          "Value": "6836"
         },
         {
           "Name": "ETag",
-          "Value": "\"I/xa7BqJxphhcU/HgRiFtfHbHljnHf/2UdGYIAyRC3s=\""
+          "Value": "\"8JlWgYAZ5uupR1ifEGkFaBhVkZPxokhCufIujdu5C/U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
         },
         {
           "Name": "Vary",
@@ -23882,17 +24043,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4=\""
+          "Value": "W/\"VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "99hwb4h6dg"
+          "Value": "nxn2li9rbg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4="
+          "Value": "sha256-VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk="
         },
         {
           "Name": "label",
@@ -23901,8 +24062,8 @@
       ]
     },
     {
-      "Route": "_framework/PokemonApp.Client.99hwb4h6dg.wasm.gz",
-      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/hojo93m5rf-99hwb4h6dg.gz",
+      "Route": "_framework/PokemonApp.Client.nxn2li9rbg.wasm.gz",
+      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/hojo93m5rf-nxn2li9rbg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23919,7 +24080,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6976"
+          "Value": "6836"
         },
         {
           "Name": "Content-Type",
@@ -23927,11 +24088,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"I/xa7BqJxphhcU/HgRiFtfHbHljnHf/2UdGYIAyRC3s=\""
+          "Value": "\"8JlWgYAZ5uupR1ifEGkFaBhVkZPxokhCufIujdu5C/U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
         },
         {
           "Name": "Vary",
@@ -23941,11 +24102,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "99hwb4h6dg"
+          "Value": "nxn2li9rbg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-I/xa7BqJxphhcU/HgRiFtfHbHljnHf/2UdGYIAyRC3s="
+          "Value": "sha256-8JlWgYAZ5uupR1ifEGkFaBhVkZPxokhCufIujdu5C/U="
         },
         {
           "Name": "label",
@@ -23968,7 +24129,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19700"
+          "Value": "19616"
         },
         {
           "Name": "Content-Type",
@@ -23976,28 +24137,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k=\""
+          "Value": "\"tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:42 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:39 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k="
+          "Value": "sha256-tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70="
         }
       ]
     },
     {
       "Route": "_framework/PokemonApp.Client.pdb",
-      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/2r50ex368j-ydn1urvdbv.gz",
+      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/2r50ex368j-fjlpo93gcp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000076810815"
+          "Quality": "0.000077321580"
         }
       ],
       "ResponseHeaders": [
@@ -24015,15 +24176,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13018"
+          "Value": "12932"
         },
         {
           "Name": "ETag",
-          "Value": "\"d5HLvx67ECFZzWQga+1WaPegVNSa8FF/uN5vO5fUZOY=\""
+          "Value": "\"1NDJhVt1yJ3iXgYLymk4/RU4s5uMPQ9gTDKDuANi0l4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
         },
         {
           "Name": "Vary",
@@ -24035,19 +24196,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k=\""
+          "Value": "W/\"tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k="
+          "Value": "sha256-tbrVmBYyk27X1QJoGBL49+sZEUrrjuNoms0wuCLqO70="
         }
       ]
     },
     {
       "Route": "_framework/PokemonApp.Client.pdb.gz",
-      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/2r50ex368j-ydn1urvdbv.gz",
+      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/2r50ex368j-fjlpo93gcp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -24064,7 +24225,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13018"
+          "Value": "12932"
         },
         {
           "Name": "Content-Type",
@@ -24072,11 +24233,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"d5HLvx67ECFZzWQga+1WaPegVNSa8FF/uN5vO5fUZOY=\""
+          "Value": "\"1NDJhVt1yJ3iXgYLymk4/RU4s5uMPQ9gTDKDuANi0l4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
         },
         {
           "Name": "Vary",
@@ -24086,7 +24247,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-d5HLvx67ECFZzWQga+1WaPegVNSa8FF/uN5vO5fUZOY="
+          "Value": "sha256-1NDJhVt1yJ3iXgYLymk4/RU4s5uMPQ9gTDKDuANi0l4="
         }
       ]
     },
@@ -24105,7 +24266,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14613"
+          "Value": "14101"
         },
         {
           "Name": "Content-Type",
@@ -24113,28 +24274,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4=\""
+          "Value": "\"VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:42 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:39 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4="
+          "Value": "sha256-VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk="
         }
       ]
     },
     {
       "Route": "_framework/PokemonApp.Client.wasm",
-      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/hojo93m5rf-99hwb4h6dg.gz",
+      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/hojo93m5rf-nxn2li9rbg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000143328078"
+          "Quality": "0.000146262981"
         }
       ],
       "ResponseHeaders": [
@@ -24152,15 +24313,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6976"
+          "Value": "6836"
         },
         {
           "Name": "ETag",
-          "Value": "\"I/xa7BqJxphhcU/HgRiFtfHbHljnHf/2UdGYIAyRC3s=\""
+          "Value": "\"8JlWgYAZ5uupR1ifEGkFaBhVkZPxokhCufIujdu5C/U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
         },
         {
           "Name": "Vary",
@@ -24172,19 +24333,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4=\""
+          "Value": "W/\"VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4="
+          "Value": "sha256-VQ2x5mMrZPOtfd1rnv0fM6xW8hRwdvoDX6C526Lv7pk="
         }
       ]
     },
     {
       "Route": "_framework/PokemonApp.Client.wasm.gz",
-      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/hojo93m5rf-99hwb4h6dg.gz",
+      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/hojo93m5rf-nxn2li9rbg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -24201,7 +24362,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6976"
+          "Value": "6836"
         },
         {
           "Name": "Content-Type",
@@ -24209,11 +24370,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"I/xa7BqJxphhcU/HgRiFtfHbHljnHf/2UdGYIAyRC3s=\""
+          "Value": "\"8JlWgYAZ5uupR1ifEGkFaBhVkZPxokhCufIujdu5C/U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
+          "Value": "Wed, 12 Feb 2025 05:10:40 GMT"
         },
         {
           "Name": "Vary",
@@ -24223,168 +24384,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-I/xa7BqJxphhcU/HgRiFtfHbHljnHf/2UdGYIAyRC3s="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PokemonApp.Client.ydn1urvdbv.pdb",
-      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/bin/Debug/net9.0/wwwroot/_framework/PokemonApp.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19700"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:42 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ydn1urvdbv"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/PokemonApp.Client.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PokemonApp.Client.ydn1urvdbv.pdb",
-      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/2r50ex368j-ydn1urvdbv.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000076810815"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13018"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d5HLvx67ECFZzWQga+1WaPegVNSa8FF/uN5vO5fUZOY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ydn1urvdbv"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/PokemonApp.Client.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PokemonApp.Client.ydn1urvdbv.pdb.gz",
-      "AssetFile": "/Users/alejandrobarranco/RiderProjects/PokemonApp/PokemonApp/PokemonApp.Client/obj/Debug/net9.0/compressed/2r50ex368j-ydn1urvdbv.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13018"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d5HLvx67ECFZzWQga+1WaPegVNSa8FF/uN5vO5fUZOY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 04:58:44 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ydn1urvdbv"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-d5HLvx67ECFZzWQga+1WaPegVNSa8FF/uN5vO5fUZOY="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/PokemonApp.Client.pdb.gz"
+          "Value": "sha256-8JlWgYAZ5uupR1ifEGkFaBhVkZPxokhCufIujdu5C/U="
         }
       ]
     },
