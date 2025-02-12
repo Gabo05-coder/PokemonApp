@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PokemonApp.Client",
   "resources": {
-    "hash": "sha256-ECm5zHp/0+2GX7K7Q7VbHkBcZTfyIEiYURXPXVrggco=",
+    "hash": "sha256-aOW69b/RFzdWxW8uTbV4YFyNHFEeVh4Xg6eUvUdTFOQ=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.n41ua9ceve.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.h4ild4sjod.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -19,12 +19,15 @@
       "Microsoft.Extensions.FileProviders.Abstractions.tt0muuqqmn.wasm": "Microsoft.Extensions.FileProviders.Abstractions.wasm",
       "Microsoft.Extensions.FileProviders.Physical.59vcbg751z.wasm": "Microsoft.Extensions.FileProviders.Physical.wasm",
       "Microsoft.Extensions.FileSystemGlobbing.2yicidzffc.wasm": "Microsoft.Extensions.FileSystemGlobbing.wasm",
+      "Microsoft.Extensions.Localization.bvn14pws96.wasm": "Microsoft.Extensions.Localization.wasm",
+      "Microsoft.Extensions.Localization.Abstractions.o4jp2hcm79.wasm": "Microsoft.Extensions.Localization.Abstractions.wasm",
       "Microsoft.Extensions.Logging.4m4jo20ji4.wasm": "Microsoft.Extensions.Logging.wasm",
       "Microsoft.Extensions.Logging.Abstractions.4483uwth6m.wasm": "Microsoft.Extensions.Logging.Abstractions.wasm",
       "Microsoft.Extensions.Options.hse9gm9r95.wasm": "Microsoft.Extensions.Options.wasm",
       "Microsoft.Extensions.Primitives.3pkwbmnqmy.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.gkumi7kxvo.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.wzrhx8t8bu.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
+      "MudBlazor.48fc1p6rs2.wasm": "MudBlazor.wasm",
       "RestSharp.il8uav3drp.wasm": "RestSharp.wasm",
       "Microsoft.CSharp.0krj4ve566.wasm": "Microsoft.CSharp.wasm",
       "Microsoft.VisualBasic.Core.bcw8auwqwc.wasm": "Microsoft.VisualBasic.Core.wasm",
@@ -202,8 +205,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "PokemonApp.Client.2v31lr235o.wasm": "PokemonApp.Client.wasm",
-      "PokemonApp.Client.7krqxwgzhp.pdb": "PokemonApp.Client.pdb"
+      "PokemonApp.Client.99hwb4h6dg.wasm": "PokemonApp.Client.wasm",
+      "PokemonApp.Client.ydn1urvdbv.pdb": "PokemonApp.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.8o8n7iomrf.js": "sha256-WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g="
@@ -240,12 +243,15 @@
       "Microsoft.Extensions.FileProviders.Abstractions.tt0muuqqmn.wasm": "sha256-seML1glu/8xJ0JaRcSpRgQ7wW0g8i72Sum99/XhpPWw=",
       "Microsoft.Extensions.FileProviders.Physical.59vcbg751z.wasm": "sha256-OQTbszHktQl1I2mibzSoYWUNGQ46quSVaaXFSzx8VSo=",
       "Microsoft.Extensions.FileSystemGlobbing.2yicidzffc.wasm": "sha256-Fn8LsxCCCi6atjmT4wiHxzIguot1IfDqnI32whxxnzE=",
+      "Microsoft.Extensions.Localization.bvn14pws96.wasm": "sha256-6UgMJoVZBfDdfzYR0aKVK6BWArxpXC1qiQDDjiXw/L4=",
+      "Microsoft.Extensions.Localization.Abstractions.o4jp2hcm79.wasm": "sha256-GJNjpp2mlMIYboBhzukWw5r2Z24PsB0E9Gj9VoTGKEI=",
       "Microsoft.Extensions.Logging.4m4jo20ji4.wasm": "sha256-HL4q4QdxykEypsK6yHSuKFDnFazCabrP4+wPtq0DGLw=",
       "Microsoft.Extensions.Logging.Abstractions.4483uwth6m.wasm": "sha256-1LlcwgP4uVIn3ZSnDyj7sHNFtk4bzbDVotS012VUwh4=",
       "Microsoft.Extensions.Options.hse9gm9r95.wasm": "sha256-ISvQeTODuLxU6ohxJBLyLb4qQ2JoQRUQitBOE9577Ps=",
       "Microsoft.Extensions.Primitives.3pkwbmnqmy.wasm": "sha256-OdxJw7jdILDZ3gOpGiCsOP1rr13RNw5EjKRvXzmr5Lg=",
       "Microsoft.JSInterop.gkumi7kxvo.wasm": "sha256-wG2lM2idoDLOwqFHD84hv6SbaH0Yt59g1BsijrC8V1U=",
       "Microsoft.JSInterop.WebAssembly.wzrhx8t8bu.wasm": "sha256-/Fh5R9UI8OZOGuj4Pz4sd8vLYjZQVqxDj8gWWqd8kA0=",
+      "MudBlazor.48fc1p6rs2.wasm": "sha256-7GIk5ftz7xm1vPgdy6QQRtfOu+3KQmSl+jpsnvQ8oqA=",
       "RestSharp.il8uav3drp.wasm": "sha256-+uIab7uZB7PmBJC04wEutNKlW3gaY3gfbfrvHBHD+Ns=",
       "Microsoft.CSharp.0krj4ve566.wasm": "sha256-QJKG5agfskYhNg4CWMzF8EqwsNALoPtT7h5pO9k6aHk=",
       "Microsoft.VisualBasic.Core.bcw8auwqwc.wasm": "sha256-Raj1ha4M/EXL7zvyW9Evn28B9GxWHE0gaLR/NXPSrdk=",
@@ -414,10 +420,10 @@
       "WindowsBase.ovqw333kan.wasm": "sha256-7LCr4nX9JSGuwzMr8Rk8TGvC6ApzQNxCDiMV/0I9JlI=",
       "mscorlib.l6md3pggqy.wasm": "sha256-jZgH0LixLeQKqaq33akQgDGhfE7vbXbHtvCId5HC0Yo=",
       "netstandard.lij9csiyuf.wasm": "sha256-DeeBl9s8G34N3IfYRQ+MoY807amodj8cvpuvUSNaWE4=",
-      "PokemonApp.Client.2v31lr235o.wasm": "sha256-MtXHKssqj1yAvh87XbnDomdjk5E4dtJrfAdFjQP6It0="
+      "PokemonApp.Client.99hwb4h6dg.wasm": "sha256-XSoOkjm3E1Ql1ksK0nUVOKvfsM0TEz7Wn46yIy0Rtg4="
     },
     "pdb": {
-      "PokemonApp.Client.7krqxwgzhp.pdb": "sha256-Bw8u9+fr58QpL9+Ks5M+j1LwbdAREOu2Do33BdHR71I="
+      "PokemonApp.Client.ydn1urvdbv.pdb": "sha256-poYkWRoHPrM0LhBWzq7m68K9EJhfRhrJpqryV5XDn+k="
     }
   },
   "cacheBootResources": true,

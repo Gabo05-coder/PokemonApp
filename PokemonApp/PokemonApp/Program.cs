@@ -2,7 +2,7 @@ using PokemonApp.Client.Pages;
 using PokemonApp.Components;
 using PokemonApp.Services;
 using YourNamespace.Services;
-
+using MudBlazor.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +12,10 @@ builder.Services.AddRazorComponents()
     .AddInteractiveWebAssemblyComponents();
 builder.Services.AddSingleton<PokemonService>();
 builder.Services.AddScoped<PokemonDetailsService>();
+
+
+
+builder.Services.AddMudServices();
 
 
 var app = builder.Build();

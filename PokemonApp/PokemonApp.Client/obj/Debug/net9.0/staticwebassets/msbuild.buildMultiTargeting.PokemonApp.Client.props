@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\build\PokemonApp.Client.props" />
+  <Import Project="../build/PokemonApp.Client.props" />
 </Project>

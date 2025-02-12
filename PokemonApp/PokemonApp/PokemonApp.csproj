@@ -7,9 +7,14 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="MudBlazor" Version="8.2.0" />
         <PackageReference Include="RestSharp" Version="112.1.1-alpha.0.4" />
         <ProjectReference Include="..\PokemonApp.Client\PokemonApp.Client.csproj"/>
         <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="9.0.1"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Components\Pages\examplepage\Example.razor" />
     </ItemGroup>
 
 </Project>
